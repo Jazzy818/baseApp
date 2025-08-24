@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: jzcradle-service
+  profiles:
+    active: dev
