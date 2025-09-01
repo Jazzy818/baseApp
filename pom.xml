@@ -19,6 +19,7 @@
         <!--		<module>jzcradle-api</module>-->
         <module>jzcradle-common</module>
         <module>jzcradle-service</module>
+
     </modules>
 
     <properties>
